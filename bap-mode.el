@@ -10,6 +10,7 @@
 ;; Version: 0.2
 ;; Keywords: languages
 ;; Homepage: https://github.com/fkie-cad/bap-mode
+;; Package-Requires: ((helm-core "3.6.0"))
 ;;
 ;; This file is not part of GNU Emacs.
 ;;
